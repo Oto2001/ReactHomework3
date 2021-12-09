@@ -1,0 +1,20 @@
+@import '../Variables/Variables.scss';
+
+.plan {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 50px;
+}
+
+.plan-heading {
+	margin: 90px;
+	font-size: 60px;
+	color: $headingColor;
+}
+
+.plan-cards {
+	display: flex;
+	align-items: center;
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,aAAa,CAAC;EACb,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,WAAW,EAAE,MAAM;EACnB,MAAM,EAAE,sBAAsB;CAK9B;;AATD,AAMC,aANY,CAMZ,EAAE,CAAC;EACF,SAAS,EAAE,IAAI;CACf;;AAGF,AAAA,aAAa,CAAC;EACb,MAAM,EAAE,UAAU;EAClB,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,MAAM;EACrB,cAAc,EAAE,GAAG;EACnB,eAAe,EAAE,aAAa;CAC9B",
+    "sources": [
+        "Blogs.scss",
+        "../Variables/Variables.scss"
+    ],
+    "names": [],
+    "file": "Blogs.css"
+}

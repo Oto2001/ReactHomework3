@@ -1,0 +1,20 @@
+@import '../Variables/Variables.scss';
+
+.blog-heading {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 200px 130px 90px 130px;
+
+	h2 {
+		font-size: 60px;
+	}
+}
+
+.blog-content {
+	margin: 90px 130px;
+	display: flex;
+	align-content: center;
+	flex-direction: row;
+	justify-content: space-between;
+}

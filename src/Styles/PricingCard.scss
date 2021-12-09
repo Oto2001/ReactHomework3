@@ -1,0 +1,67 @@
+@import '../Variables/Variables.scss';
+
+.pricing-card {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 20px;
+	background-color: $planCardColor;
+	padding: 50px 70px;
+	h4 {
+		color: $textColor;
+		font-size: 18px;
+	}
+
+	h3 {
+		margin: 30px;
+		color: $headingColor;
+		font-size: 50px;
+		font-weight: 700;
+	}
+
+	span {
+		font-size: 15px;
+		font-weight: normal;
+	}
+
+	.display-none {
+		display: none;
+	}
+
+	p {
+		margin: 14px;
+		color: $textColor;
+	}
+
+	button {
+		margin: 20px 0;
+		background-color: $planCardColor;
+	}
+}
+
+.premium-card {
+	background-color: $btnColor;
+	padding: 50px 50px;
+	height: 500px;
+
+	h4 {
+		color: white;
+	}
+
+	h3 {
+		color: white;
+	}
+
+	span {
+		color: white;
+	}
+
+	p {
+		color: white;
+	}
+
+	button {
+		background-color: white;
+	}
+}

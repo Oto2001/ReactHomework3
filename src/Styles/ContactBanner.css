@@ -1,0 +1,24 @@
+.contact-banner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #2f2e41;
+  padding: 80px;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  position: absolute;
+  top: 0;
+}
+
+.contact-banner h2 {
+  font-size: 50px;
+  color: white;
+  max-width: 80%;
+}
+/*# sourceMappingURL=ContactBanner.css.map */

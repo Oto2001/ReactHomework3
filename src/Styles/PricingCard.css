@@ -1,0 +1,76 @@
+.pricing-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 20px;
+  background-color: rgba(236, 235, 255, 0.3);
+  padding: 50px 70px;
+}
+
+.pricing-card h4 {
+  color: #9893a3;
+  font-size: 18px;
+}
+
+.pricing-card h3 {
+  margin: 30px;
+  color: #2f2e41;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.pricing-card span {
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.pricing-card .display-none {
+  display: none;
+}
+
+.pricing-card p {
+  margin: 14px;
+  color: #9893a3;
+}
+
+.pricing-card button {
+  margin: 20px 0;
+  background-color: rgba(236, 235, 255, 0.3);
+}
+
+.premium-card {
+  background-color: #6c63ff;
+  padding: 50px 50px;
+  height: 500px;
+}
+
+.premium-card h4 {
+  color: white;
+}
+
+.premium-card h3 {
+  color: white;
+}
+
+.premium-card span {
+  color: white;
+}
+
+.premium-card p {
+  color: white;
+}
+
+.premium-card button {
+  background-color: white;
+}
+/*# sourceMappingURL=PricingCard.css.map */

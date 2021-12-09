@@ -1,0 +1,22 @@
+@import '../Variables/Variables.scss';
+
+.blog-tile {
+	max-width: 400px;
+	img {
+		width: 400px;
+	}
+	h3 {
+		font-size: 22px;
+		font-weight: 600px;
+		margin: 20px 0;
+	}
+	p {
+		color: $textColor;
+		margin: 25px 0;
+	}
+
+	a {
+		color: black;
+		text-shadow: 1px 5px 5px $btnColor;
+	}
+}

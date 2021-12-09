@@ -1,0 +1,20 @@
+button {
+  padding: 1rem 2rem;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.btn-empty {
+  background: white;
+  border: 1px #6c63ff solid;
+  margin-right: 1rem;
+  color: #6c63ff;
+}
+
+.btn-filled {
+  border: none;
+  background: #6c63ff;
+  color: white;
+}
+/*# sourceMappingURL=Button.css.map */

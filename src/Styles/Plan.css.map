@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,KAAK,CAAC;EACL,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,MAAM,EAAE,IAAI;CACZ;;AAED,AAAA,aAAa,CAAC;EACb,MAAM,EAAE,IAAI;EACZ,SAAS,EAAE,IAAI;EACf,KAAK,ECXS,OAAO;CDYrB;;AAED,AAAA,WAAW,CAAC;EACX,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;CACnB",
+    "sources": [
+        "Plan.scss",
+        "../Variables/Variables.scss"
+    ],
+    "names": [],
+    "file": "Plan.css"
+}

@@ -1,0 +1,29 @@
+@import '../Variables/Variables.scss';
+
+.hero {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin: 130px;
+}
+
+.hero-content {
+	max-width: 490px;
+}
+
+.hero-content {
+	h1 {
+		font-size: 86px;
+		color: $headingColor;
+	}
+	p {
+		color: $textColor;
+		margin: 2rem 0;
+		line-height: 34px;
+		font-size: 1.3rem;
+	}
+}
+
+.hero-img {
+	width: 35vw;
+}

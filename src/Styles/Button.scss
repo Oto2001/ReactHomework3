@@ -1,0 +1,21 @@
+@import '../Variables/Variables.scss';
+
+button {
+	padding: 1rem 2rem;
+	font-size: 14px;
+	font-weight: 700;
+	cursor: pointer;
+}
+
+.btn-empty {
+	background: white;
+	border: 1px $btnColor solid;
+	margin-right: 1rem;
+	color: $btnColor;
+}
+
+.btn-filled {
+	border: none;
+	background: $btnColor;
+	color: white;
+}
